@@ -34,7 +34,7 @@ Analyse retail sales data to identify trends, top customers, and key drivers of 
 - Maharashtra, Karnataka, and Uttar Pradesh are the top 3 contributing states  
 - Adults aged 30–49 years are the highest contributing group (~50%)  
 - Amazon, Flipkart, and Myntra generate the maximum sales
-- View Dadhboard <a herf="https://github.com/piyushkr-analytics/Sales-Performance-Dashboard-project/blob/main/Screenshot%202026-03-25%20124102.png"> View</a>
+- View Dadhboard <a herf="https://github.com/piyushkr-analytics/Sales-Performance-Dashboard-project/blob/main/Screenshot%202026-03-25%20124102.png">View</a>
 
 ## Conclusion & Recommendations
 - Prioritize women aged 30–49 in Maharashtra, Karnataka, and Uttar Pradesh with targeted marketing  
