@@ -1,57 +1,27 @@
-# Sales-Performance-Dashboard-project
-Excel  dashboard analyzing retail sales trends and customer behavior
+# Sales_Performance_Dashboard_Analysis
 
-## Project Goal
-Analyse retail sales data to identify trends, top customers, and key drivers of revenue. Answer business questions and generate actionable insights.
+## 🔍 Project Overview
+This project analyses retail sales data to identify trends, customer behaviour, and revenue drivers to support business decision-making.
 
-## 📂 Dataset
-
-- The dataset is embedded within the Excel file used for analysis  
-- File: [Download Dashboard & Dataset](Excel%20Project.xlsx)
-- Additional sheets include pivot tables and dashboard visualizations  
-
-> Note: Data has been cleaned and preprocessed before analysis.
-
-## Sample Questions Addressed
-1. Compare sales and orders by month using a single chart  
-2. Which month got the highest sales and orders?  
-3. Who purchased more – men or women in 2022?  
-4. What are the different order statuses in 2022?  
-5. Top 10 states contributing to sales  
-6. Relation between age and gender based on number of orders  
-7. Which channel contributed to maximum sales  
-8. Highest selling category
-
-## Data Cleaning & Preprocessing
-- Standardized **Gender** column: M → Men, W → Women  
-- Standardized **Quantity** column: One → 1, Two → 2  
-- Created **Age Group** column using: `=IF(F2>=50,"Senior", IF(F2>=30,"Adult","Teenager"))`  
-- Created **Month** column: `=TEXT(G3, "mmm")` to analyze sales trends by month
-
-## Data Analysis
-- Pivot tables and combined charts used to analyse sales trends by month  
-- Pie charts to compare men vs women purchases and order status distribution  
-- Bar charts for top contributing states  
-- Column charts for relation between age, gender, and number of orders  
-- Pie charts for sales channel contribution  
-- Slicers added for interactive dashboard reporting
-
-## Dashboard Interaction
-
+## Dashboard Preview
 ![Sales Dashboard](Screenshotsdashboard.png.png)
 
-## Sample Insights
-- Women are more likely to purchase than men (~64%)  
-- Maharashtra, Karnataka, and Uttar Pradesh are the top 3 contributing states  
-- Adults aged 30–49 years are the highest contributing group (~50%)  
-- Amazon, Flipkart, and Myntra generate the maximum sales
-- View Dadhboard <a herf="https://github.com/piyushkr-analytics/Sales-Performance-Dashboard-project/blob/main/Screenshot%202026-03-25%20124102.png">View</a>
+## ❓ Business Problem
+The business lacks visibility into sales performance, customer behaviour, and key revenue drivers.
 
-## Conclusion & Recommendations
-- Prioritize women aged 30–49 in Maharashtra, Karnataka, and Uttar Pradesh with targeted marketing  
-- Retarget male and teenage customers through category-specific campaigns  
-- Plan off-season sales (Aug–Nov) to balance yearly performance
+## 💡 Key Insights
+- Women contribute ~64% of total purchases  
+- Top states: Maharashtra, Karnataka, Uttar Pradesh  
+- Adults (30–49) generate ~50% of orders  
+- Amazon, Flipkart, Myntra drive majority of sales  
 
-## 📁 Files
-- Excel Project.xlsx – Dashboard and dataset (Data sheet included)  
-- Screenshotsdashboard.png.png – Dashboard overview  
+## 🚀 Recommendations
+- Target women aged 30–49 with personalised campaigns  
+- Focus marketing efforts in top-performing states  
+- Increase engagement of male and teenage segments  
+- Plan promotions during low-performing months  
+
+## 🛠 Tools Used
+- Excel (Pivot Tables, Charts, Slicers)  
+- Data Cleaning & Preprocessing  
+- Data Visualization  
