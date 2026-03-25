@@ -29,6 +29,10 @@ Analyse retail sales data to identify trends, top customers, and key drivers of 
 - Pie charts for sales channel contribution  
 - Slicers added for interactive dashboard reporting
 
+## Dashboard Interaction
+
+![Sales Dashboard](Screenshotsdashboard.png.png)
+
 ## Sample Insights
 - Women are more likely to purchase than men (~64%)  
 - Maharashtra, Karnataka, and Uttar Pradesh are the top 3 contributing states  
