@@ -1,6 +1,5 @@
 # Sales-Performance-Dashboard-project
 Excel  dashboard analyzing retail sales trends and customer behavior
-# Sales Performance Dashboard
 
 ## Project Goal
 Analyse retail sales data to identify trends, top customers, and key drivers of revenue. Answer business questions and generate actionable insights.
