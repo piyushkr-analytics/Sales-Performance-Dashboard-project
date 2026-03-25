@@ -4,6 +4,7 @@ Excel  dashboard analyzing retail sales trends and customer behavior
 ## Project Goal
 Analyse retail sales data to identify trends, top customers, and key drivers of revenue. Answer business questions and generate actionable insights.
 
+
 ## Sample Questions Addressed
 1. Compare sales and orders by month using a single chart  
 2. Which month got the highest sales and orders?  
@@ -33,6 +34,7 @@ Analyse retail sales data to identify trends, top customers, and key drivers of 
 - Maharashtra, Karnataka, and Uttar Pradesh are the top 3 contributing states  
 - Adults aged 30–49 years are the highest contributing group (~50%)  
 - Amazon, Flipkart, and Myntra generate the maximum sales
+- View Dadhboard 
 
 ## Conclusion & Recommendations
 - Prioritize women aged 30–49 in Maharashtra, Karnataka, and Uttar Pradesh with targeted marketing  
