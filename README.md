@@ -2,7 +2,7 @@
 
 ## 🔗 Quick Access
 The dataset is embedded within the Excel file used for analysis
-- 📥 [File].(Excel Project.xlsx)
+- 📥 [File](Excel Project.xlsx)
 - Additional sheets include pivot tables and dashboard visualizations
 - 📊 [View Dashboard Image](Screenshotsdashboard.png)
 > Note: Data has been cleaned and preprocessed before analysis.
