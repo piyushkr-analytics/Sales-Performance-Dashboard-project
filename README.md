@@ -52,7 +52,6 @@ Analyse retail sales data to identify trends, top customers, and key drivers of 
 - Retarget male and teenage customers through category-specific campaigns  
 - Plan off-season sales (Aug–Nov) to balance yearly performance
 
-## Files
-- `Dataset/sales_data.xlsx` – Raw data  
-- `Dashboard/Sales_Dashboard.xlsx` – Pivot tables and charts  
-- `Screenshots/charts_overview.png` – Dashboard overview
+## 📁 Files
+- Excel Project.xlsx – Dashboard and dataset (Data sheet included)  
+- Screenshotsdashboard.png.png – Dashboard overview  
