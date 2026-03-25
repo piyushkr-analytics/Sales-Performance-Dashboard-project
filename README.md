@@ -4,6 +4,13 @@ Excel  dashboard analyzing retail sales trends and customer behavior
 ## Project Goal
 Analyse retail sales data to identify trends, top customers, and key drivers of revenue. Answer business questions and generate actionable insights.
 
+## 📂 Dataset
+
+- The dataset is embedded within the Excel file used for analysis  
+- File: [Download Dashboard & Dataset](Excel Project.xlsx)  
+- Additional sheets include pivot tables and dashboard visualizations  
+
+> Note: Data has been cleaned and preprocessed before analysis.
 
 ## Sample Questions Addressed
 1. Compare sales and orders by month using a single chart  
