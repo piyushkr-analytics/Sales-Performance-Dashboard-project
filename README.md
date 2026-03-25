@@ -7,7 +7,7 @@ Analyse retail sales data to identify trends, top customers, and key drivers of 
 ## 📂 Dataset
 
 - The dataset is embedded within the Excel file used for analysis  
-- File: [Download Dashboard & Dataset](Excel Project.xlsx)  
+- File: [Download Dashboard & Dataset](Excel%20Project.xlsx)
 - Additional sheets include pivot tables and dashboard visualizations  
 
 > Note: Data has been cleaned and preprocessed before analysis.
