@@ -1,9 +1,11 @@
 # Sales_Performance_Dashboard_Analysis
 
 ## 🔗 Quick Access
-
-- 📥 [Download Dashboard](Dashboard/Sales_Dashboard.xlsx)
+The dataset is embedded within the Excel file used for analysis
+- 📥 [File:](Excel Project.xlsx)
+- Additional sheets include pivot tables and dashboard visualizations
 - 📊 [View Dashboard Image](Screenshotsdashboard.png)
+> Note: Data has been cleaned and preprocessed before analysis.
 
 ## 🔍 Project Overview
 This project analyses retail sales data to identify trends, customer behaviour, and revenue drivers to support business decision-making.
