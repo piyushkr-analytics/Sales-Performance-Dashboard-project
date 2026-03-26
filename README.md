@@ -14,7 +14,7 @@ This project analyses retail sales data to identify trends, customer behaviour, 
 The business lacks visibility into sales performance, customer behaviour, and key revenue drivers.
 
 ## Dashboard Preview
-![Sales Dashboard](Screenshotsdashboard.png)
+![Sales Dashboard](Screenshot2.png)
 
 ## 💡 Key Insights
 - Women contribute ~64% of total purchases  
